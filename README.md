@@ -23,12 +23,15 @@ Please do not rely on this information in making decisions, as the development, 
 - Com: relevant to Magento Commerce edition
 - OS: relevant to Magento Open Source edition
 - B2B: relevant to Magento B2B functionality
+- MBI: relevant to Magento Business Intelligence 
+
 
 # Have an idea? 
 If you have an idea for how to improve this backlog or what should be on it, please reach out on the #public-backlog channel of our [Community Engineering Slack](magentocommeng.slack.com). To keep things clear, typically only big-ticket items are included. Think - if something is large enough to make it onto the roadmap presentation at a big Magento event, it may be a good candidate. 
 
+
 # Community Project Process
-The following describes a general framework for starting and running joint collaboration projects between Magento and the broader community. 
+The following describes a general framework for starting and running joint collaboration projects between Magento and the broader community. Keep in mind every project's dynamics are different and may diverge from the outline below. 
 1. Decide that a project is worth doing
    - Community projects can be proposed internally (in Magento) or externally (by Community)
    - Get in touch using the Slack channel above
