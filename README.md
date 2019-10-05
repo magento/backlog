@@ -19,7 +19,7 @@ Please do not rely on this information in making decisions, as the development, 
 
 ## Labels
 - Community: items that can be developed in collaboration with the Magento Community 
-- Internal: items is intended to be developed mainly internally by Magento
+- Internal: items are intended to be developed mainly internally by Magento
 - Com: relevant to Magento Commerce edition
 - OS: relevant to Magento Open Source edition
 - B2B: relevant to Magento B2B functionality
@@ -36,7 +36,7 @@ The following describes a general framework for starting and running joint colla
    - Community projects can be proposed internally (in Magento) or externally (by Community)
    - Get in touch using the Slack channel above
 2. Alignment with Magento on resource allocation
-   - Projects can be fully communit-driven or run in a form of internal-external collaboration
+   - Projects can be fully community-driven or run in a form of internal-external collaboration
 3. Create an official community project on GitHub and populate backlog
 4. Recruit volunteers
 5. Run kick-off and grooming meetings
