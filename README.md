@@ -27,7 +27,7 @@ Please do not rely on this information in making decisions, as the development, 
 
 
 # Have an idea? 
-If you have an idea for how to improve this backlog or what should be on it, please reach out on the #public-backlog channel of our [Community Engineering Slack](magentocommeng.slack.com). To keep things clear, typically only big-ticket items are included. Think - if something is large enough to make it onto the roadmap presentation at a big Magento event, it may be a good candidate. 
+If you have an idea for how to improve this backlog or what should be on it, please reach out on the #public-backlog channel of our [Community Engineering Slack](http://opensource.magento.com/slack). To keep things clear, typically only big-ticket items are included. Think - if something is large enough to make it onto the roadmap presentation at a big Magento event, it may be a good candidate. 
 
 
 # Community Project Process
